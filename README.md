@@ -15,4 +15,4 @@ Call Volume Trends (Hourly/Daily/Monthly)
 
 
 The dashboard enables supervisors and managers to monitor performance, identify issues quickly, and make data-driven decisions to improve efficiency and customer service.
-Screenshot 2025-04-29 140317.png
+
